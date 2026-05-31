@@ -1,0 +1,51 @@
+[
+    {
+        "claim": "Citigroup operates as a local bank in almost 100 countries out of 180 countries where it has a presence",
+        "type": "Industry",
+        "domain": "Banking",
+        "implied_timeframe": "2021-2026",
+        "measurable": true
+    },
+    {
+        "claim": "Citigroup moves $2 quadrillion a year through its services business",
+        "type": "Economic",
+        "domain": "Banking/Financial Services",
+        "implied_timeframe": "2025-2026",
+        "measurable": true
+    },
+    {
+        "claim": "Citigroup removed four layers from the company during transformation",
+        "type": "Industry",
+        "domain": "Banking",
+        "implied_timeframe": "2021-2026",
+        "measurable": true
+    },
+    {
+        "claim": "Citigroup's AI usage is at about 70 percent among employees",
+        "type": "Industry",
+        "domain": "Banking/Technology",
+        "implied_timeframe": "2025-2026",
+        "measurable": true
+    },
+    {
+        "claim": "Citigroup coders are 9 percent more productive across 30,000 coders compared to the beginning of the year",
+        "type": "Industry",
+        "domain": "Banking/Technology",
+        "implied_timeframe": "2025-2026",
+        "measurable": true
+    },
+    {
+        "claim": "Citigroup receives many billions of attacks per day across authentication, fraud, money laundering, and cyber categories",
+        "type": "Industry",
+        "domain": "Banking/Cybersecurity",
+        "implied_timeframe": "2025-2026",
+        "measurable": true
+    },
+    {
+        "claim": "Tokenized coin transactions have a 7 percent transaction cost for on-off ramp",
+        "type": "Economic",
+        "domain": "Banking/Blockchain",
+        "implied_timeframe": "2025-2026",
+        "measurable": true
+    }
+]

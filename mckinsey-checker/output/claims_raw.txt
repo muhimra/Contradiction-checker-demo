@@ -1,0 +1,7 @@
+```json
+[]
+```
+
+The provided text contains only header/navigation elements from a McKinsey Quarterly publication with no substantive research content, metrics, claims, or data. No specific, measurable, or falsifiable claims can be extracted from "McKinsey > McKinsey Quarterly McKinsey Quarterly" as these are only document labels and branding elements.
+
+To extract valid claims, please provide the actual body text of the McKinsey research report that contains specific data, statistics, timeframes, and geographic/industry scopes.
