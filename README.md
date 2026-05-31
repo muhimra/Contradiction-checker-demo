@@ -4,7 +4,7 @@ An automated fact-checking pipeline that extracts measurable claims from industr
 
 Built to answer a simple question: *when a consulting firm publishes a statistic, how hard is it to verify?*
 
-![Dashboard screenshot](dashboard_screenshot.png)
+
 
 ---
 
@@ -122,4 +122,6 @@ mckinsey-claim-auditor/
 
 ## Built by
 
-[Exorank](https://yourwebsite.com) — AI workflow consulting
+[Exoreach](https://exoreach.co.uk) — AI workflow consulting
+
+This repository contains a simplified version of the pipeline. The client implementation includes additional features not published here, including custom data source integrations, a more extensive claim classification schema, and an internal reporting layer.
